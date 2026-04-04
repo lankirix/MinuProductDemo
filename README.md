@@ -4,7 +4,7 @@ A programmatic marketing video built with [Remotion](https://remotion.dev) for t
 
 Renders a 27-second, 1080x1920 (vertical/Reels-ready) MP4 — fully animated, no video editing software required.
 
----
+--
 
 ## Scenes
 
