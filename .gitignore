@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+
+# Remotion output
+out/
+output/
+*.mp4
+*.webm
+*.gif
+*.mov
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Claude / AI tooling
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# TypeScript build cache
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temp / cache
+.cache/
+.temp/
+tmp/
