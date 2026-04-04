@@ -1,5 +1,5 @@
 import React from "react";
-import { AbsoluteFill, Audio, Series, staticFile } from "remotion";
+import { AbsoluteFill, Series } from "remotion";
 import { Scene1Hook } from "./scenes/Scene1Hook";
 import { Scene2ProductIntro } from "./scenes/Scene2ProductIntro";
 import { Scene3Demo } from "./scenes/Scene3Demo";
@@ -19,12 +19,6 @@ import { Scene6CTA } from "./scenes/Scene6CTA";
 export const MinuOrganicsVideo: React.FC = () => {
   return (
     <AbsoluteFill style={{ backgroundColor: "#0A0A0A" }}>
-      {/* Subtle background music — add music.mp3 to the /public folder */}
-      <Audio
-        src={staticFile("music.mp3")}
-        volume={0.18}
-        startFrom={0}
-      />
       <Series>
         <Series.Sequence durationInFrames={90} premountFor={30}>
           <Scene1Hook />
