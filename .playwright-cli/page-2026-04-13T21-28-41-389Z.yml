@@ -1,0 +1,276 @@
+- generic [active] [ref=e1]:
+  - alertdialog "Cookie consent" [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - heading "Cookie consent" [level=2] [ref=e5]
+        - paragraph [ref=e6]:
+          - text: We and our partners, including Shopify, use cookies and other technologies to personalize your experience, show you ads, and perform analytics, and we will not use cookies or other technologies for these purposes unless you accept them. Learn more in our
+          - link "Privacy Policy" [ref=e7] [cursor=pointer]:
+            - /url: https://www.minunatural.shop/policies/privacy-policy
+      - generic [ref=e8]:
+        - button "Manage preferences" [ref=e9]
+        - button "Accept" [ref=e10]
+        - button "Decline" [ref=e11]
+  - link "Skip to content" [ref=e12] [cursor=pointer]:
+    - /url: "#MainContent"
+  - generic [ref=e13]:
+    - complementary [ref=e16]:
+      - paragraph [ref=e20]: NO HARSH CHEMICALS • NATURAL INGREDIENTS
+    - banner [ref=e21]:
+      - generic [ref=e22]:
+        - heading "MINU NATURAL" [level=1] [ref=e24]
+        - generic [ref=e26]:
+          - navigation "Primary" [ref=e30]:
+            - list [ref=e32]:
+              - generic:
+                - link "Home" [ref=e33] [cursor=pointer]:
+                  - /url: /
+                  - generic [ref=e34]: Home
+                - link "Catalog" [ref=e35] [cursor=pointer]:
+                  - /url: /collections/all
+                  - generic [ref=e36]: Catalog
+                - link "Contact" [ref=e37] [cursor=pointer]:
+                  - /url: /pages/contact
+                  - generic [ref=e38]: Contact
+          - 'link "Translation missing: en.MINU NATURAL accessibility.home" [ref=e40] [cursor=pointer]':
+            - /url: /
+            - 'img "Translation missing: en.MINU NATURAL accessibility.home" [ref=e42]'
+          - generic [ref=e43]:
+            - button "Search" [ref=e45] [cursor=pointer]:
+              - generic:
+                - img
+            - generic [ref=e46]:
+              - button "Account" [ref=e51] [cursor=pointer]:
+                - img [ref=e53]
+              - button "Cart" [ref=e56] [cursor=pointer]:
+                - generic [ref=e57]:
+                  - generic:
+                    - img
+              - status [ref=e60]
+  - main [ref=e61]:
+    - generic [ref=e64]:
+      - generic:
+        - generic:
+          - img
+      - generic:
+        - generic:
+          - heading "Your Skin remembers everything." [level=4]
+          - heading "Give it what it deserves" [level=6]
+        - link "Shop Collection" [ref=e65] [cursor=pointer]:
+          - /url: /collections/all
+    - generic [ref=e68]:
+      - heading "Products" [level=3] [ref=e73]
+      - generic [ref=e74]:
+        - generic [ref=e76]:
+          - link "Exfoilating Facial Wash" [ref=e77] [cursor=pointer]:
+            - /url: /products/exfoilating-facial-wash?variant=57426409521487
+            - generic [ref=e78]: Exfoilating Facial Wash
+          - generic [ref=e79] [cursor=pointer]:
+            - generic [ref=e80]:
+              - link "Exfoilating Facial Wash" [ref=e81]:
+                - /url: /products/exfoilating-facial-wash?variant=57426409521487
+                - img "Exfoilating Facial Wash" [ref=e87]
+              - generic:
+                - generic:
+                  - status
+                  - button "Add" [ref=e88]:
+                    - generic [ref=e89]:
+                      - generic:
+                        - img
+                      - generic [ref=e90]: Add
+                    - generic [ref=e91]:
+                      - generic:
+                        - img
+            - link "Exfoilating Facial Wash" [ref=e92]:
+              - /url: /products/exfoilating-facial-wash?variant=57426409521487
+              - heading "Exfoilating Facial Wash" [level=3] [ref=e94]
+            - generic [ref=e97]: £18.00
+        - generic [ref=e99]:
+          - link "Moisturising Day Cream" [ref=e100] [cursor=pointer]:
+            - /url: /products/moisturising-day-cream?variant=57439179669839
+            - generic [ref=e101]: Moisturising Day Cream
+          - generic [ref=e102] [cursor=pointer]:
+            - generic [ref=e103]:
+              - link "Moisturising Day Cream" [ref=e104]:
+                - /url: /products/moisturising-day-cream?variant=57439179669839
+                - img "Moisturising Day Cream" [ref=e110]
+              - generic:
+                - generic:
+                  - status
+                  - button "Add" [ref=e111]:
+                    - generic [ref=e112]:
+                      - generic:
+                        - img
+                      - generic [ref=e113]: Add
+                    - generic [ref=e114]:
+                      - generic:
+                        - img
+            - link "Moisturising Day Cream" [ref=e115]:
+              - /url: /products/moisturising-day-cream?variant=57439179669839
+              - heading "Moisturising Day Cream" [level=3] [ref=e117]
+            - generic [ref=e120]: £22.90
+        - generic [ref=e122]:
+          - link "Purifying Toner" [ref=e123] [cursor=pointer]:
+            - /url: /products/purifying-toner?variant=57439283151183
+            - generic [ref=e124]: Purifying Toner
+          - generic [ref=e125] [cursor=pointer]:
+            - generic [ref=e126]:
+              - link "Purifying Toner" [ref=e127]:
+                - /url: /products/purifying-toner?variant=57439283151183
+                - img "Purifying Toner" [ref=e133]
+              - generic:
+                - generic:
+                  - status
+                  - button "Add" [ref=e134]:
+                    - generic [ref=e135]:
+                      - generic:
+                        - img
+                      - generic [ref=e136]: Add
+                    - generic [ref=e137]:
+                      - generic:
+                        - img
+            - link "Purifying Toner" [ref=e138]:
+              - /url: /products/purifying-toner?variant=57439283151183
+              - heading "Purifying Toner" [level=3] [ref=e140]
+            - generic [ref=e143]: £18.00
+        - generic [ref=e145]:
+          - link "Sève Vitale Glow Body Oil" [ref=e146] [cursor=pointer]:
+            - /url: /products/seve-vitale-glow-body-oil?variant=57413528650063
+            - generic [ref=e147]: Sève Vitale Glow Body Oil
+          - generic [ref=e148] [cursor=pointer]:
+            - generic [ref=e149]:
+              - link "Sève Vitale Glow Body Oil" [ref=e150]:
+                - /url: /products/seve-vitale-glow-body-oil?variant=57413528650063
+                - img "Sève Vitale Glow Body Oil" [ref=e156]
+              - generic:
+                - generic:
+                  - status
+                  - button "Add" [ref=e157]:
+                    - generic [ref=e158]:
+                      - generic:
+                        - img
+                      - generic [ref=e159]: Add
+                    - generic [ref=e160]:
+                      - generic:
+                        - img
+            - link "Sève Vitale Glow Body Oil" [ref=e161]:
+              - /url: /products/seve-vitale-glow-body-oil?variant=57413528650063
+              - heading "Sève Vitale Glow Body Oil" [level=3] [ref=e163]
+            - generic [ref=e166]: £24.00
+        - generic [ref=e168]:
+          - link "Vitamin C Serum" [ref=e169] [cursor=pointer]:
+            - /url: /products/vitamin-c-serum?variant=57439134712143
+            - generic [ref=e170]: Vitamin C Serum
+          - generic [ref=e171] [cursor=pointer]:
+            - generic [ref=e172]:
+              - link "Vitamin C Serum" [ref=e173]:
+                - /url: /products/vitamin-c-serum?variant=57439134712143
+                - img "Vitamin C Serum" [ref=e179]
+              - generic:
+                - generic:
+                  - status
+                  - button "Add" [ref=e180]:
+                    - generic [ref=e181]:
+                      - generic:
+                        - img
+                      - generic [ref=e182]: Add
+                    - generic [ref=e183]:
+                      - generic:
+                        - img
+            - link "Vitamin C Serum" [ref=e184]:
+              - /url: /products/vitamin-c-serum?variant=57439134712143
+              - heading "Vitamin C Serum" [level=3] [ref=e186]
+            - generic [ref=e189]: £22.90
+    - generic [ref=e196]:
+      - generic [ref=e197]:
+        - heading "Frequently asked questions" [level=2] [ref=e198]
+        - generic [ref=e199]: Find answers to common questions about our products
+      - generic [ref=e200]:
+        - generic [ref=e201]:
+          - button "What ingredients are in your products?" [ref=e202] [cursor=pointer]:
+            - generic [ref=e203]: What ingredients are in your products?
+            - img [ref=e205]
+          - paragraph [ref=e208]: All our products are formulated with natural, organic ingredients including ceramides, hyaluronic acid, and botanical extracts. We never use parabens, sulfates, or synthetic fragrances.
+        - generic [ref=e209]:
+          - button "How long does shipping take?" [ref=e210] [cursor=pointer]:
+            - generic [ref=e211]: How long does shipping take?
+            - img [ref=e213]
+          - paragraph [ref=e216]: UK orders typically arrive within 2-3 business days. International shipping times vary by location but generally take 5-10 business days.
+        - generic [ref=e217]:
+          - button "When will I start seeing results??" [ref=e218] [cursor=pointer]:
+            - generic [ref=e219]: When will I start seeing results??
+            - img [ref=e221]
+          - paragraph [ref=e224]:
+            - text: Results vary based on your skin type and routine. Most customers notice visible improvements within 2 to 4 weeks of consistent use. For best results, follow the recommended routine and give your skin time to adjust.
+            - text: .
+        - generic [ref=e225]:
+          - button "Are your products suitable for sensitive skin?" [ref=e226] [cursor=pointer]:
+            - generic [ref=e227]: Are your products suitable for sensitive skin?
+            - img [ref=e229]
+          - paragraph [ref=e232]: Our formulations are gentle and designed for all skin types, including sensitive skin. However, we always recommend patch testing new products first.
+        - generic [ref=e233]:
+          - button "How should I store my skincare products?" [ref=e234] [cursor=pointer]:
+            - generic [ref=e235]: How should I store my skincare products?
+            - img [ref=e237]
+          - paragraph [ref=e240]: Store products in a cool, dry place away from direct sunlight. Keep lids tightly closed to maintain freshness and potency.
+    - generic [ref=e248]:
+      - generic [ref=e249]:
+        - heading "What our customers say" [level=2] [ref=e250]
+        - generic [ref=e251]: Real experiences from real people
+      - generic [ref=e252]:
+        - generic [ref=e253]:
+          - generic [ref=e254]:
+            - img [ref=e255]
+            - img [ref=e257]
+            - img [ref=e259]
+            - img [ref=e261]
+            - img [ref=e263]
+          - paragraph [ref=e265]: The Ceramide Barrier Cream transformed my skin. It's so nourishing and gentle, perfect for my sensitive skin.
+          - generic [ref=e266]:
+            - img [ref=e269]
+            - generic [ref=e272]:
+              - generic [ref=e273]: Sarah M.
+              - generic [ref=e274]: London
+        - generic [ref=e275]:
+          - generic [ref=e276]:
+            - img [ref=e277]
+            - img [ref=e279]
+            - img [ref=e281]
+            - img [ref=e283]
+            - img [ref=e285]
+          - paragraph [ref=e287]: I love the natural ingredients and how my skin feels after using the Moisturising Day Cream. Absolutely worth it.
+          - generic [ref=e288]:
+            - img [ref=e291]
+            - generic [ref=e294]:
+              - generic [ref=e295]: Ivana L.
+              - generic [ref=e296]: Portsmouth
+        - generic [ref=e297]:
+          - generic [ref=e298]:
+            - img [ref=e299]
+            - img [ref=e301]
+            - img [ref=e303]
+            - img [ref=e305]
+            - img [ref=e307]
+          - paragraph [ref=e309]: Finally found a brand that delivers on its promises. My skin has never looked better. Highly recommend MINU Naturals.
+          - generic [ref=e310]:
+            - img [ref=e313]
+            - generic [ref=e316]:
+              - generic [ref=e317]: Jessica R.
+              - generic [ref=e318]: Brussels
+  - contentinfo [ref=e319]:
+    - generic [ref=e323]:
+      - generic [ref=e325]:
+        - heading "Join our email list" [level=2] [ref=e327]
+        - paragraph [ref=e329]: Get exclusive deals and early access to new products.
+      - generic [ref=e332]:
+        - generic [ref=e333]: Email
+        - textbox "Email" [ref=e334]:
+          - /placeholder: Email address
+        - button "Sign up" [ref=e335]:
+          - img [ref=e336]
+    - generic [ref=e341]:
+      - generic [ref=e343]:
+        - text: © 2026
+        - link "MINU NATURAL" [ref=e344] [cursor=pointer]:
+          - /url: /
+      - button "Terms and Policies" [ref=e346] [cursor=pointer]

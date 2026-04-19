@@ -50,4 +50,4 @@ ENV PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium
 RUN mkdir -p /app/output
 
 # Render the video on container start
-CMD ["npx", "remotion", "render", "MinuOrganicsDemo", "output/minu-final.mp4", "--log=verbose"]
+CMD ["npx", "remotion", "render", "MinuNaturalDemo", "output/minu-final.mp4", "--log=verbose"]

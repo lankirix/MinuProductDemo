@@ -1,0 +1,50 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - link "About" [ref=e119] [cursor=pointer]:
+      - /url: https://about.google/?fg=1&utm_source=google-GB&utm_medium=referral&utm_campaign=hp-header
+    - link "Store" [ref=e120] [cursor=pointer]:
+      - /url: https://store.google.com/GB?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-GB
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link "Gmail" [ref=e121] [cursor=pointer]:
+          - /url: https://mail.google.com/mail/&ogbl
+        - link "Search for Images" [ref=e122] [cursor=pointer]:
+          - /url: https://www.google.com/imghp?hl=en&ogbl
+          - text: Images
+      - button "Google apps" [ref=e123] [cursor=pointer]:
+        - img [ref=e16]
+      - link "Sign in" [ref=e124] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=futura_exp_og_so_72776762_e
+  - img "Google" [ref=e125]
+  - search [ref=e31]:
+    - generic [ref=e33]:
+      - generic [ref=e35]:
+        - img [ref=e39]
+        - combobox "Search" [ref=e126]
+        - generic [ref=e44]:
+          - button "Search by voice" [ref=e127] [cursor=pointer]:
+            - img [ref=e46]
+          - button "Search by image" [ref=e128] [cursor=pointer]:
+            - img [ref=e49]
+      - generic [ref=e52]:
+        - button "Google Search" [ref=e129] [cursor=pointer]
+        - button "I'm Feeling Lucky" [ref=e130] [cursor=pointer]
+  - contentinfo [ref=e57]:
+    - generic [ref=e58]: United Kingdom
+    - generic [ref=e59]:
+      - generic [ref=e60]:
+        - link "Advertising" [ref=e131] [cursor=pointer]:
+          - /url: https://www.google.com/intl/en_uk/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1
+        - link "Business" [ref=e132] [cursor=pointer]:
+          - /url: https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1
+        - link "How Search works" [ref=e133] [cursor=pointer]:
+          - /url: https://google.com/search/howsearchworks/?fg=1
+      - link "Applying AI towards science and the environment" [ref=e134] [cursor=pointer]:
+        - /url: https://ai.google/societal-impact/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer
+      - generic [ref=e66]:
+        - link "Privacy" [ref=e135] [cursor=pointer]:
+          - /url: https://policies.google.com/privacy?hl=en-GB&fg=1
+        - link "Terms" [ref=e136] [cursor=pointer]:
+          - /url: https://policies.google.com/terms?hl=en-GB&fg=1
+        - button "Settings" [ref=e137] [cursor=pointer]:
+          - generic [ref=e73]: Settings

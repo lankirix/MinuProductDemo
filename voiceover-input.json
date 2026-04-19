@@ -1,0 +1,10 @@
+{
+  "text": "Waking up with dry, rough skin? Meet the Ceramide Barrier Night Cream — from minu Natural. If your skin feels tight, looks dull, or just won't hold moisture — this is your match. Deeply hydrating. Barrier-repairing. Formulated to work while you sleep. Barrier repair. Overnight. Deeply moisturizing. Repairs your skin barrier. One hundred percent organic. Launching globally soon. Join the waitlist at minu Natural dot shop — because your skin's transformation starts here.",
+  "voice": "bella",
+  "model": "eleven_multilingual_v2",
+  "stability": 0.35,
+  "similarity_boost": 0.85,
+  "style": 0.3,
+  "use_speaker_boost": true,
+  "output_format": "mp3_44100_192"
+}

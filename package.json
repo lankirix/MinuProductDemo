@@ -1,10 +1,10 @@
 {
-  "name": "minu-organics-demo",
+  "name": "minu-ceramide-night-cream",
   "version": "1.0.0",
-  "description": "Minu Organics Ceramide Barrier Night Cream - Product Demo Video",
+  "description": "Minu Natural Ceramide Night Barrier Cream - Premium 30s Luxury Skincare Video",
   "scripts": {
     "start": "remotion studio",
-    "build": "remotion render MinuOrganicsDemo",
+    "build": "remotion render MinuNaturalDemo",
     "upgrade": "remotion upgrade"
   },
   "dependencies": {

@@ -1,4 +1,4 @@
-name: Render Minu Organics Video
+name: Render Minu Natural Video
 
 on:
   push:
@@ -50,13 +50,13 @@ jobs:
             libxshmfence1
 
       - name: Render video
-        run: npx remotion render MinuOrganicsDemo output/minu-final.mp4 --log=verbose
+        run: npx remotion render MinuNaturalDemo output/minu-final.mp4 --log=verbose
         env:
           PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
 
       - name: Upload rendered video
         uses: actions/upload-artifact@v4
         with:
-          name: minu-organics-video
+          name: minu-natural-video
           path: output/minu-final.mp4
           retention-days: 7
